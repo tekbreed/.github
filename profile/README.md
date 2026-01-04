@@ -64,5 +64,5 @@ We are building in public and welcome contributors, learners, and educators to j
 ---
 
 <div align="center">
-  <sub>© 2025 TekBreed. All things code.</sub>
+  <sub>© 2026 TekBreed. All things code.</sub>
 </div>
