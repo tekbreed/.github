@@ -37,27 +37,18 @@ We are developing a monolithic platform that integrates multiple specialized app
 *   **Team Workspaces**: Dedicated environments for study groups, bootcamps, and company teams.
 *   **Career Tracks**: Guided pathways with certification, portfolio building, and job board integration.
 
----
 
-## ⚡ Our Technology Stack
-
-We believe in using the best tools for the job. Our platform is built on a cutting-edge, type-safe, and high-performance stack:
-
-*   **Core**: [TypeScript](https://www.typescriptlang.org/), [React Router v7](https://reactrouter.com/), [Turborepo](https://turbo.build/)
-*   **UI/UX**: [Tailwind CSS v4](https://tailwindcss.com/), [Shadcn UI](https://ui.shadcn.com/), [Framer Motion](https://www.framer.com/motion/)
-*   **Data**: [Turso](https://turso.tech/) (Edge SQLite), [Prisma](https://www.prisma.io/), [Upstash Redis](https://upstash.com/)
-*   **AI**: [Anthropic Claude](https://www.anthropic.com/), [Voyage AI](https://www.voyageai.com/) (Embeddings), [Upstash Vector](https://upstash.com/docs/vector/overall/whatisvector)
-*   **Real-time**: [PartyKit](https://partykit.io/) (Serverless WebSockets), [100ms](https://100ms.live/) (Video SDK)
-*   **Content**: [Sanity](https://www.sanity.io/) (Headless CMS)
 
 ---
 
-## 🤝 Join the Community
+## 🔒 Project Status
 
-We are building in public and welcome contributors, learners, and educators to join us.
+We are not accepting contributions at this time.
 
-*   **🌐 Website**: [tekbreed.com](https://tekbreed.com)
-*   **💬 Discord**: [Join our Server](https://discord.gg/HTt9aeSS)
+## 🤝 Stay Connected
+
+*   **🌐 Website**: [tekbreed.com](https://tekbreed.com) (Coming Soon)
+*   **💬 Discord**: [Join our Server](https://discord.gg/tekbreed)
 *   **🐦 Twitter/X**: [@tekbreed](https://twitter.com/tekbreed)
 *   **💼 LinkedIn**: [TekBreed](https://linkedin.com/company/tekbreed)
 
